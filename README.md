@@ -2,12 +2,12 @@
 - [x] beschreiben Sie einen der Anwendungsfälle UC 1.01 - UC 1.07 mithilfe des Use Case Templates
 - [x] Legen Sie sich dazu einen github account an, wenn sie sich als Studierende registrieren, können Sie später auch GitHub Copilot nutzen
 - [x] Eine Personen erstellt dann ein neues Repository und lassen Sie dieses public und setzen Sie ein Häkchen bei Add a README file
-- [x] fügen das andere Gruppenmitglied unter Settings, Collaborators: https://github.com///settings/access) hinzu
+- [x] fügen das andere Gruppenmitglied unter Settings, Collaborators hinzu
 - [x] Editieren Sie die README.md und fügen Sie die Beschreibung ein
 - [x] Gehen Sie auf Projects und Link a project erstellen Sie ein neues Team Planning Projekt
 - [x] Wenn Sie sich bei github als Studierende registrieren, können Sie später z.B. auch GitHub Copilot nutzen
 - [x] Legen Sie drei User Stories für den Use Case als Karte auf dem Kanban-Board an und weisen Sie diesen einer Person zu
-- [ ] Als Abgabe reichen Sie den Link zu Ihrem Repository ein
+- [x] Als Abgabe reichen Sie den Link zu Ihrem Repository ein
 ---
 ## UC 1.03 (Alarm bei zu hoher Herzfrequenz)
 - Name und Identifikationsnummer
